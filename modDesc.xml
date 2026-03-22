@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <modDesc descVersion="95">
-	<author>westor</author>
+	<author>westor, velris</author>
 	<version>1.0.0.0</version>
 	<title> 
 		<en>More Pallets Capacity</en>
@@ -157,78 +157,78 @@ Unterstützte Produkte:
 - WOOL]]>
 		</de>
 		<fr> <![CDATA[
-Capacité de palettes plus importante mod augmentant les produits suivants qui utilisent des palettes jusqu'à '10.000' litres.
+Capacité de palettes plus importante mod augmentant les produits suivants qui utilisent des palettes jusqu'à '2.000' litres.
 
 westor7 @ Discord ou https://github.com/westor7/FS25_morePalletsCapacity pour toutes suggestions/problèmes.
 
 Produits pris en charge:
 
-- BARREL
-- BATHTUB
-- BOARDS
-- BREAD
-- BUCKET
-- BUFFALOMILK_BOTTLED
-- BUFFALOMOZZARELLA
-- BUTTER
-- CAKE
-- CANNED_PEAS
-- CANOLA_OIL
-- CARTONROLL
-- CEMENT
-- CEMENTBRICKS
-- CEREAL
-- CHEESE
-- CHILLI
-- CHOCOLATE
-- CLOTHES
-- EGG
-- ENOKI
-- FABRIC
-- FERMENTEDNAPACABBAGE
-- FLOUR
-- FURNITURE
-- GARLIC
-- GOATCHEESE
-- GOATMILK
-- GOATMILK_BOTTLED
-- GRAPEJUICE
-- HONEY
-- JARRED_GREENBEAN
-- LETTUCE
-- MILK_BOTTLED
-- NAPACABBAGE
-- NOODLESOUP
-- OLIVE_OIL
-- OYSTER
-- PAPERROLL
-- PLANKS
-- POTATOCHIPS
-- PREFABWALL
-- PRESERVEDBEETROOT
-- PRESERVEDCARROTS
-- PRESERVEDPARSNIP
-- RAISINS
-- RICE_BAGS
-- RICE_BOXES
-- RICE_OIL
-- RICEFLOUR
-- RICEROLLS
-- ROOFPLATES
-- ROPE
-- SOUPCANSBEETROOT
-- SOUPCANSCARROTS
-- SOUPCANSMIXED
-- SOUPCANSPARSNIP
-- SOUPCANSPOTATO
-- SPINACH_BAGS
-- SPRING_ONION
-- STRAWBERRY
-- SUGAR
-- SUNFLOWER_OIL
-- TOMATO
-- WOODBEAM
-- WOOL]]>
+- Tonneau
+- Baignoire
+- Longues planches
+- Pain
+- Seau
+- Lait de bufflonne (en bouteille)
+- Mozzarella de bufflonne
+- Beurre
+- Gâteau
+- Petit pois en conserve
+- Huile de colza
+- Rouleau de carton
+- Sacs de ciment
+- Briques en ciment
+- Céréales
+- Fromage
+- Piments
+- Chocolat
+- Vêtements
+- Œufs
+- Enoki
+- Tissu
+- Kimchi
+- Farine
+- Mobilier
+- Ail
+- Fromage de chèvre
+- Lait de chèvre
+- Lait de chèvre (en bouteille)
+- Jus de raisin
+- Miel
+- Bocal de haricots verts
+- Laitue
+- Lait (en bouteille)
+- Chou chinois
+- Soupe de nouilles
+- Huile d'olive
+- Huîtres
+- Rouleau de papier
+- Planches
+- Chips
+- Mur préfabriqué
+- Betteraves en conserve
+- Carottes en conserve
+- Panais en conserve
+- Raisins secs
+- Sac de riz
+- Boîte de riz
+- Huile de riz
+- Farine de riz
+- Galettes de riz soufflé
+- Tôle de toiture
+- Corde
+- Soupe de betterave
+- Soupe de carotte
+- Soupe aux trois légumes
+- Soupe de panais
+- Soupe de pomme de terre
+- Sac d'épinards
+- Cébette
+- Fraises
+- Sucre
+- Huile de tournesol
+- Tomates
+- Poutre en bois
+- Laine]]>
 		</fr>
 	</description>
 	
